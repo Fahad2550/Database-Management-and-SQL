@@ -43,3 +43,6 @@ By implementing these roles and permissions, the project demonstrates a comprehe
 ## Conclusion
 
 This project exemplifies a thorough understanding of relational database management and SQL, from initial schema design to complex query execution. It not only highlights technical proficiency but also showcases the ability to design a database system that supports real-world business operations. Through this project, I have demonstrated the skills necessary to manage and manipulate large datasets, extract meaningful insights, and maintain the security and integrity of the data.
+
+![360_F_508282415_kPLm9LiHsPSxwURuDI2XlNDNADywGcPK](https://github.com/user-attachments/assets/6c272b8c-3754-4479-9ed2-c8933c581d6c)
+
